@@ -17,5 +17,3 @@ Pull-up ladder with a chess clock: each player has their own timer, and turns ar
 4. **Results** — winner and standings  
 5. **History** — past games (up to 50)
    
-Kotlin.
-JaCoCo.
